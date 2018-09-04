@@ -1,0 +1,18 @@
+c:\users\clemens\documents\visual studio 2012\Projects\Wochentag\Wochentag\bin\Debug\Wochentag.exe.config
+c:\users\clemens\documents\visual studio 2012\Projects\Wochentag\Wochentag\obj\Debug\Wochentag.csprojResolveAssemblyReference.cache
+c:\users\clemens\documents\visual studio 2012\Projects\Wochentag\Wochentag\obj\Debug\Wochentag.Form1.resources
+c:\users\clemens\documents\visual studio 2012\Projects\Wochentag\Wochentag\obj\Debug\Wochentag.Properties.Resources.resources
+c:\users\clemens\documents\visual studio 2012\Projects\Wochentag\Wochentag\obj\Debug\Wochentag.csproj.GenerateResource.Cache
+c:\users\clemens\documents\visual studio 2012\Projects\Wochentag\Wochentag\bin\Debug\Wochentag.exe
+c:\users\clemens\documents\visual studio 2012\Projects\Wochentag\Wochentag\bin\Debug\Wochentag.pdb
+c:\users\clemens\documents\visual studio 2012\Projects\Wochentag\Wochentag\obj\Debug\Wochentag.exe
+c:\users\clemens\documents\visual studio 2012\Projects\Wochentag\Wochentag\obj\Debug\Wochentag.pdb
+C:\Users\Clemens\Desktop\Wochentag\Wochentag\bin\Debug\Wochentag.exe.config
+C:\Users\Clemens\Desktop\Wochentag\Wochentag\obj\Debug\Wochentag.exe
+C:\Users\Clemens\Desktop\Wochentag\Wochentag\obj\Debug\Wochentag.pdb
+C:\Users\Clemens\Desktop\Wochentag\Wochentag\bin\Debug\Wochentag.exe
+C:\Users\Clemens\Desktop\Wochentag\Wochentag\bin\Debug\Wochentag.pdb
+C:\Users\Clemens\Desktop\Wochentag\Wochentag\obj\Debug\Wochentag.csprojResolveAssemblyReference.cache
+C:\Users\Clemens\Desktop\Wochentag\Wochentag\obj\Debug\Wochentag.Form1.resources
+C:\Users\Clemens\Desktop\Wochentag\Wochentag\obj\Debug\Wochentag.Properties.Resources.resources
+C:\Users\Clemens\Desktop\Wochentag\Wochentag\obj\Debug\Wochentag.csproj.GenerateResource.Cache
